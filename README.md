@@ -1,2 +1,2 @@
-# pomodoro-extension
-A browser extension to help you get work done
+# pomodoro
+An app to help you get work done
